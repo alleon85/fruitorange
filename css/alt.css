@@ -1,0 +1,65 @@
+body {
+	margin: 0;
+}
+
+nav {
+	background-color: #fe7e00;
+	color: #fff;
+}
+
+.navsite img {
+	height: 35px;
+	width: 35px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.right {
+	float: right;
+	margin-right: 45px;
+	margin-top: 35px;
+}
+
+.navsite {
+	display: inline;
+}
+
+.right li {
+	list-style: none;
+	display: inline-block;
+	padding: 0 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+#searchbar {
+	float: right;
+}
+
+section img {
+	width: 250px;
+	height: 250px;
+	margin-left: 200px;
+}
+
+.para-right {
+	float: right;
+	margin-top: 150px;
+}
+
+p span {
+	color: blue;
+}
+
+button {
+	padding: 5px 10px;
+	text-transform: uppercase;
+}
+
+footer {
+	background-color: blue;
+	height: 25px;
+}

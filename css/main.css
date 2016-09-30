@@ -1,0 +1,47 @@
+div.nav {
+	height: 90px;
+	margin: 0;
+	display: block;
+	width: 100%;
+	padding: 0;
+	position: absolute;
+}
+
+div.nav img {
+	height: 20px;
+	position: absolute;
+	padding-top: 20px;
+	padding-left: 65px;
+}
+
+span.oj {
+	font-weight: bold;
+	padding-left: 85px;
+	color: #fff;
+}
+
+sup {
+	font-size: 8px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div.sitenav {
+	background-color: #fe7e00;
+	height: 120px;
+	margin: 0;
+	display: block;
+	width: 100%;
+	padding: 0%;
+	float: right;
+}
+
+ul .right {
+	float: right;
+	display: inline-block;
+}
+
+
